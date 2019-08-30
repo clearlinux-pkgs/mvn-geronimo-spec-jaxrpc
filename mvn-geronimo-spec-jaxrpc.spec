@@ -4,7 +4,7 @@
 #
 Name     : mvn-geronimo-spec-jaxrpc
 Version  : 1.1.r4
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/geronimo-spec/geronimo-spec-jaxrpc/1.1-rc4/geronimo-spec-jaxrpc-1.1-rc4.jar
 Source0  : https://repo1.maven.org/maven2/geronimo-spec/geronimo-spec-jaxrpc/1.1-rc4/geronimo-spec-jaxrpc-1.1-rc4.jar
 Source1  : https://repo1.maven.org/maven2/geronimo-spec/geronimo-spec-jaxrpc/1.1-rc4/geronimo-spec-jaxrpc-1.1-rc4.pom
